@@ -1,0 +1,17 @@
+{
+  "id": "com.gaming.combat-clock",
+  "name": "Combat Clock",
+  "version": "2.0.0",
+  "description": "Countdown timer with built-in initiative tracker. Counts down 6 seconds per round automatically.",
+  "author": "You",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Combat Clock",
+    "icon": "/icon.svg",
+    "popover": {
+      "url": "/index.html",
+      "height": 560,
+      "width": 300
+    }
+  }
+}
